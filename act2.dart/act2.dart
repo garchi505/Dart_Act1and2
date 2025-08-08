@@ -13,3 +13,4 @@ void main() {
   int squarePerimeter = calculatePerimeter(7, 0, isSquare: true);
   print('The perimeter of the square is $squarePerimeter');
 }
+
